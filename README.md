@@ -7,7 +7,7 @@ Car Resale Value Prediction Using Machine Learning
         <br><br>Team ID: PNT2022TMID34995</h2>
 <h3>Team Members:<br>
 963319104014 - Arthini SV<br>
-963319104022 - Dibisha J<br>
+963319104022 - Dhibisha J<br>
 963319104023 - Divya V<br>
 963319104030 - Kalaimathi K<h3>
     </div>
