@@ -19,6 +19,7 @@ Car Resale Value Prediction Using Machine Learning
     - Models
     - Dataset
     -  [x] Car Resale Prediction.py<br>
+    -  [x] Car Resale Prediction.ipynb<br>
     -  [x] app.py<br>
     -  [x] requerments.txt<br>
 
