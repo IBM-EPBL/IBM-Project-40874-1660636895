@@ -8,7 +8,7 @@ Car Resale Value Prediction Using Machine Learning
 <h3>Team Members:<br>
 963319104014 - Arthini SV<br>
 963319104022 - Dhibisha J<br>
-963319104023 - Divya V<br>
+963319104023 - Divya V <br>
 963319104030 - Kalaimathi K<h3>
     </div>
  
